@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habits Tracker</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+</resources>
